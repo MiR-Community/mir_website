@@ -21,8 +21,6 @@ The folks at [reprex](https://www.tidyverse.org/help/#reprex-pkg) are doing this
 If you're looking for help with your code, consider posting a question on the Slack in the website channel. We believe that help is much more valuable if it's shared publicly, so that more people can benefit from it.
 
 Getting started
-To make changes to spaCy's code base, you need to fork then clone the GitHub repository and build spaCy from source.
-
 In order to make changes to MiR Community's website, first fork the codebase, then clone the repository. You'll then be able to build MiR's website from source. Be sure to install blogdown.
 
 Fixing bugs
